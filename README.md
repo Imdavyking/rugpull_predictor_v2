@@ -26,7 +26,7 @@ Before using the model, make sure you have the necessary prerequisites installed
 
 ## Data Collection
 
-Our data collection process involved querying the relevant data from the subgraph mentioned above. We collected pool day data, mint data, and burn data for Uniswap V3 pools. To narrow down our focus, we filtered the pools to include only those that traded an ERC20 token with WETH and had a substantial active period. We also set a minimum threshold for the total value locked (USD) to ensure the pools we analyzed were significant. This meticulous process resulted in approximately 6,000 pools and 5,000 tokens for analysis.
+Our data collection process involved querying the relevant data from the subgraph mentioned above. We collected pool day data, mint data, and burn data for Uniswap V3 pools. To narrow down our focus, we filtered the pools to include only those that traded an ERC20 token with WETH and had a substantial active period. We also set a minimum threshold for the total value locked (USD) to ensure the pools we analyzed were significant. This meticulous process resulted in approximately 6,000 pools and 5,000 tokens for analysis. A link to the larger data files is [here](https://drive.google.com/drive/folders/1KjBtDx7wtnb1vxtwjr5mblAjmts8FOdC?usp=drive_link).
 
 ## Labeling
 
